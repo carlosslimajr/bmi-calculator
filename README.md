@@ -1,7 +1,7 @@
 # Body mass index calculator
 ###### Project made with react-native just to practice my skills
 
-### Demonstration ![](src/wpp/wp2.jpeg | width=150) ![](src/wpp/wp1.jpeg | width=150)
+### Demonstration <img src="src/wpp/wp2.jpeg" width="150"> <img src="src/wpp/wp1.jpeg" width="150">
 
 ### Build with
 * [React.js](https://pt-br.reactjs.org/)
